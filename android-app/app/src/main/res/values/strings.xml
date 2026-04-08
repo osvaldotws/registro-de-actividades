@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Registro Diario</string>
+    <string name="previous_day">Día anterior</string>
+    <string name="next_day">Día siguiente</string>
+    <string name="no_activities">No hay actividades</string>
+    <string name="no_activities_message">No hay actividades para esta fecha.\n¡Agrega una abajo!</string>
+    <string name="hint_activity_name">Ej. Abdominales, Pesas...</string>
+    <string name="add">Agregar</string>
+    <string name="hint_note">Agregar nota (opcional)...</string>
+    <string name="decrease">Restar</string>
+    <string name="increase">Sumar</string>
+    <string name="delete_activity">Eliminar actividad</string>
+    <string name="history">Historial</string>
+    <string name="no_history">Sin historial</string>
+    <string name="no_history_message">Aún no hay registros en el historial.</string>
+    <string name="view_day">Ver día</string>
+    <string name="close">Cerrar</string>
+</resources>
