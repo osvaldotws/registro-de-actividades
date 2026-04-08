@@ -1,0 +1,21 @@
+{
+  "name": "Registro de Actividades",
+  "short_name": "Actividades",
+  "description": "App para registrar actividades diarias con contadores, funciona sin conexión.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#059669",
+  "icons": [
+    {
+      "src": "https://api.dicebear.com/7.x/shapes/svg?seed=activity&backgroundColor=059669",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "https://api.dicebear.com/7.x/shapes/svg?seed=activity&backgroundColor=059669",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ]
+}

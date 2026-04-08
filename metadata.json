@@ -1,0 +1,5 @@
+{
+  "name": "Registro de Actividades",
+  "description": "App para registrar actividades diarias con contadores, funciona sin conexión.",
+  "requestFramePermissions": []
+}
